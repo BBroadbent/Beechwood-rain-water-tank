@@ -1,0 +1,12 @@
+4x Diode 1N4004
+1x Smoothing capacitor
+1x 20x2 Header pin
+1x 6x1 Header pin
+6x 1K resistor
+4x 180 Resistor
+2 x 2K resistor
+1x MCP3008 (ADC)
+1x K844P (Optocoupler)
+5x 2 pin 3.5mm terminal block
+1x 3 pin 3.5mm terminal block
+1x 4 pin 3.5mm terminal block
