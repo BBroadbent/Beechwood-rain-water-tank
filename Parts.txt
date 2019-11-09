@@ -1,12 +1,13 @@
-4x Diode 1N4004
-1x Smoothing capacitor
-1x 20x2 Header pin
+4x Diode 1N4004 
+1x Smoothing capacitor 
+1x 20x2 Header pin 
 1x 6x1 Header pin
-6x 1K resistor
-4x 180 Resistor
-2 x 2K resistor
+6x 1K resistor https://uk.rs-online.com/web/p/through-hole-fixed-resistors/1372767/
+4x 180 Resistor 0.75W https://uk.rs-online.com/web/p/through-hole-fixed-resistors/2141030/
+2 x 2K resistor https://uk.rs-online.com/web/p/through-hole-fixed-resistors/6833430/
 1x MCP3008 (ADC)
-1x K844P (Optocoupler)
-5x 2 pin 3.5mm terminal block
-1x 3 pin 3.5mm terminal block
-1x 4 pin 3.5mm terminal block
+1x K844P (Optocoupler) https://uk.farnell.com/vishay/k844p/opto-coupler/dp/1328383#anchorTechnicalDOCS
+5x 2 pin 3.5mm terminal block https://uk.rs-online.com/web/p/pcb-terminal-blocks/1444314/
+1x 3 pin 3.5mm terminal block https://uk.rs-online.com/web/p/pcb-terminal-blocks/1444323/
+1x 4 pin 3.5mm terminal block https://uk.rs-online.com/web/p/pcb-terminal-blocks/8971339/
+1x Current transformer https://uk.rs-online.com/web/p/current-transformers/1243898/?relevancy-data=636F3D3126696E3D4931384E525353746F636B4E756D626572266C753D656E266D6D3D6D61746368616C6C26706D3D5E2828282872737C5253295B205D3F293F285C647B337D5B5C2D5C735D3F5C647B332C347D5B705061415D3F29297C283235285C647B387D7C5C647B317D5C2D5C647B377D2929292426706F3D3126736E3D592673723D2673743D52535F53544F434B5F4E554D4245522677633D4E4F4E45267573743D31323433383938267374613D3132343338393826&searchHistory=%7B%22enabled%22%3Atrue%7D
